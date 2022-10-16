@@ -44,7 +44,7 @@ My contributions are in fixing bugs and adding features in openstack compute and
 
 **Hewlett-Packard, Fort Collins, CO						Mar 2008 to Aug 2015**
 
-**HP Helion – Metering and Billing						**
+**HP Helion – Metering and Billing**
 
 Ceilometer is the product under openstack for metering and billing of resource usage. Openstack is python based distributed software that provides API and resource management for virtualization of servers for different kinds of workloads
 
@@ -52,7 +52,7 @@ Adding new features and bug fixes. Adding drivers to vertica as the database and
 
 **Technologies**: Python, vertica, mysql, openstack monasca, rabbitmq, sqlalchemy
 
-**HP Connected Drive 							**
+**HP Connected Drive**
 
 HP connected drive aims to aggregate content from personal devices and makes the content easy to search and access. As a member of the infrastructure team, I worked on designing and implementing several REST API interfaces developed in python and using several cloud technologies.
 
@@ -60,7 +60,7 @@ My contributions include elasticsearch schema design, ansible playbooks for new 
 
 **Technologies used:** Cassandra, ElasticSearch, ZooKeeper, Redis, Python, Ansible
 
-**SkyRoom/Halo Studio   				         **
+**SkyRoom/Halo Studio**
 
 SkyRoom is desktop video conferencing software from HP for Windows based PCs. 
 
@@ -70,10 +70,8 @@ SkyRoom is desktop video conferencing software from HP for Windows based PCs.
 
 **Payments and Fulfillment**
 
+Worked on payments platform enhancements and modules
 
-    Working on various core payment products based in C++
-
-
-    Major contributions: Database tuning, go live on SOA based service deployment
+Major contributions: Database tuning, go live on SOA based service deployment
 
 **Environment:** C++, Linux, queuing framework, SOA
